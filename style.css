@@ -1,3 +1,6 @@
-body{
-    background: beige
+/* GENERAL */
+
+* {
+    margin: 0;
+    padding: 0;
 }
